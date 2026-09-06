@@ -2,7 +2,7 @@ async function checkAllTodos(): Promise<void> {
   const urls = [
     "https://jsonplaceholder.typicode.com/todos/1",
     "https://jsonplaceholder.typicode.com/todos/2",
-    "https://invalid-url-example.com/todos/1",
+    "https://example.com/todos/1",
   ];
 
   const results = await Promise.allSettled(
