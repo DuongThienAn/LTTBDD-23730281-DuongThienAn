@@ -1,0 +1,5 @@
+[
+  { "name": "Điện Thoại Vsmart Joy 3 - Hàng chính hãng", "price": 1790000, "oldPrice": 1790000, "rating": 5, "reviewCount": 828, "supplier": "Tiki Tradding", "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN", "colors": ["silver","red","black","blue"], "defaultColor": "blue" },
+  { "name": "Điện Thoại Vsmart Live 4 - Hàng chính hãng", "price": 3990000, "oldPrice": 4490000, "rating": 4, "reviewCount": 512, "supplier": "Tiki Tradding", "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN", "colors": ["silver","red","black","blue"], "defaultColor": "red" },
+  { "name": "Điện Thoại Vsmart Star 5 - Hàng chính hãng", "price": 2390000, "oldPrice": 2590000, "rating": 4, "reviewCount": 301, "supplier": "Tiki Tradding", "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN", "colors": ["silver","red","black","blue"], "defaultColor": "black" }
+]
