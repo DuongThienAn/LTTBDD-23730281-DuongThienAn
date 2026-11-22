@@ -1,5 +1,4 @@
 # Buổi 10 – Trả lời câu hỏi bổ sung
-Phạm Quốc Khánh – 23641111
 
 1. FlatList dựng cách xếp hàng theo số cột ngay từ đầu nên không cho đổi numColumns khi đang chạy. Đặt key={String(numColumns)} thì khi số cột đổi, key đổi, React huỷ FlatList cũ và dựng FlatList mới. Bỏ key thì bật Switch sẽ báo lỗi "Changing numColumns on the fly is not supported".
 
